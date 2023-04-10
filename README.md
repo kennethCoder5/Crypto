@@ -7,7 +7,7 @@
   <h4> It is a fully responsive cryptocurrency website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 </h4>
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://kennethcoder5.github.io/Crypto-Website/"><strong>➥ Live Demo</strong></a>
 
 <br />
 <div align="center">
